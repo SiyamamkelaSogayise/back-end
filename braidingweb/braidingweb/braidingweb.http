@@ -1,0 +1,6 @@
+@braidingweb_HostAddress = http://localhost:5073
+
+GET {{braidingweb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
